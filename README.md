@@ -1,2 +1,4 @@
 # Pytorch-Notebook
-simple notes for pytorch and ML
+
+Notes on Pytorch and ML.
+From zero to (hopefully) all.
